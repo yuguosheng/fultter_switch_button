@@ -1,6 +1,6 @@
 # switch_button_demo
 
-A new Flutter project.
+flutter版的segment控件
 
 ## Getting Started
 
